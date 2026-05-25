@@ -2,9 +2,9 @@
 
 This is a small computer designed by f1c200s
 
-![展示](D:\WPS Office\Github开源项目\Linux小电脑\作品\展示.png)
+![项目实物图1](images/1.png)
 
-![1](D:\WPS Office\Github开源项目\Linux小电脑\作品\1.jpg)
+![项目实物图2](images/2.jpg)
 
 ## 简介
 

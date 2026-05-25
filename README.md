@@ -2,9 +2,9 @@
 
 This is a small computer designed by f1c200s
 
-![项目实物图1](images/1.png)
+![项目实物图1](image/1.png)
 
-![项目实物图2](images/2.jpg)
+![项目实物图2](image/2.jpg)
 
 ## 简介
 

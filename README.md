@@ -37,6 +37,7 @@ https://www.bilibili.com/video/BV18xG76aE3N
 小白自制Linux开发板：https://whycan.com/t_7275.html
 
 u-boot-nano-v2018.01 来自 https://github.com/Lichee-Pi/u-boot.git
+
 linux-5.7.1 来自 https://mirrors.edge.kernel.org/pub/linux/kernel/v5.x/linux-5.7.1.tar.gz
 
 buildroot-2018.02.11 来自 https://buildroot.org/downloads

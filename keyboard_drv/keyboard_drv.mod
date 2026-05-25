@@ -1,0 +1,2 @@
+/home/endiok/Snail/keyboard_drv/keyboard_drv.o
+

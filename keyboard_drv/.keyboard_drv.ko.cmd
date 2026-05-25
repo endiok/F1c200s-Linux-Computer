@@ -1,0 +1,1 @@
+cmd_/home/endiok/Snail/keyboard_drv/keyboard_drv.ko := arm-linux-gnueabi-ld -r -EL --build-id  -T ./scripts/module-common.lds -o /home/endiok/Snail/keyboard_drv/keyboard_drv.ko /home/endiok/Snail/keyboard_drv/keyboard_drv.o /home/endiok/Snail/keyboard_drv/keyboard_drv.mod.o;  true
